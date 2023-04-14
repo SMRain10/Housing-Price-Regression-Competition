@@ -1,5 +1,5 @@
 # 611_Final_Project
-# Sam Rainboe
+# Sam Rainbow
 # UCID 30084292
 
 
