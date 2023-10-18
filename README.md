@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This GitHub project, titled "Housing Price Prediction," is an exploration of regression techniques to predict house prices based on features provided by the Ames Housing Dataset, a Kaggle competition dataset. The goal is to accurately estimate the sale price of a house using various features. The project employs Python and machine learning libraries to accomplish this task.
+This project is an exploration of regression techniques to predict house prices based on features provided by the Ames Housing Dataset, a Kaggle competition dataset. The goal is to accurately estimate the sale price of a house using various features. The project employs Python and machine learning libraries to accomplish this task.
 
 ### Project Files
 
